@@ -1,7 +1,7 @@
 {
   "main.css": "/ReactOnlineshop/static/css/main.21214861.chunk.css",
-  "main.js": "/ReactOnlineshop/static/js/main.be3f3f42.chunk.js",
-  "main.js.map": "/ReactOnlineshop/static/js/main.be3f3f42.chunk.js.map",
+  "main.js": "/ReactOnlineshop/static/js/main.09d42fce.chunk.js",
+  "main.js.map": "/ReactOnlineshop/static/js/main.09d42fce.chunk.js.map",
   "static/css/1.4f3cfbca.chunk.css": "/ReactOnlineshop/static/css/1.4f3cfbca.chunk.css",
   "static/js/1.bdc14650.chunk.js": "/ReactOnlineshop/static/js/1.bdc14650.chunk.js",
   "static/js/1.bdc14650.chunk.js.map": "/ReactOnlineshop/static/js/1.bdc14650.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/1.4f3cfbca.chunk.css.map": "/ReactOnlineshop/static/css/1.4f3cfbca.chunk.css.map",
   "static/css/main.21214861.chunk.css.map": "/ReactOnlineshop/static/css/main.21214861.chunk.css.map",
   "index.html": "/ReactOnlineshop/index.html",
-  "precache-manifest.733ca89530b82052db1814d010ff42bb.js": "/ReactOnlineshop/precache-manifest.733ca89530b82052db1814d010ff42bb.js",
+  "precache-manifest.9dbe570612904bc59b8c5b0b6e685dc3.js": "/ReactOnlineshop/precache-manifest.9dbe570612904bc59b8c5b0b6e685dc3.js",
   "service-worker.js": "/ReactOnlineshop/service-worker.js"
 }
